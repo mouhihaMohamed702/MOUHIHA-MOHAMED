@@ -35,17 +35,26 @@ title: About
   </div>
   <div class="stuff__container">
     <div class="stuff__content">
-     <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/17guhLbNYMGDpqxXlxAy_PILrZZ6hwk_N/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
+     <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/1sDNOIXlJZLgjSy8JAvLpg52P3bfEBysA/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
-      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong>I'm a 23-year-old Moroccan with a strong interest in the fields of data science, data analysis and full-stack development. I recently graduated with a Master's degree in Big Data and Decision Support from the National School of Applied Sciences of Khouribga.</p>
- <p>
-My passion for data science, data analysis and full-stack development comes from my firm belief in the transformative power of technology to bring about positive change. I find it incredibly captivating how data can be harnessed to solve intricate problems and enhance the quality of people's lives.</p>
- <p>
-In addition to my academic pursuits, I am inspired by the wise words of the renowned author, Stephen King, who once said,<strong> "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."</strong> I strongly resonate with this sentiment and firmly believe that hard work and dedication are indispensable ingredients for achieving success in any endeavor.</p>
- <p>
-By combining my expertise in data science, data analysis with full-stack development skills, I aspire to create innovative and impactful solutions that contribute positively to society. My ultimate goal is to be at the forefront of technological advancements, bridging the gap between data-driven insights and user-friendly applications."</p>
+      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 24-year-old Moroccan with a strong interest in the fields of data science and data analysis. I graduated with a Master's degree in Big Data and Decision Support from the National School of Applied Sciences of Khouribga.</p>
+<p>
+My passion for data science and data analysis comes from my firm belief in the transformative power of technology to bring about positive change. I find it incredibly captivating how data can be harnessed to solve intricate problems and enhance the quality of people's lives.</p>
+<p>
+In addition to my academic pursuits, I am inspired by the wise words of the renowned author, Stephen King, who once said, <strong>"Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."</strong> I strongly resonate with this sentiment and firmly believe that hard work and dedication are indispensable ingredients for achieving success in any endeavor.</p>
+
+
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
+     <p><strong>Data Scientist<span class="date" style=" color: inherit;">August 2023 - present</span><br><a href="https://insoft.ma/">Insoft</a></strong> Full time</p>
+Master's thesis project: Analysis and comparison of deep learning recommender systems.
+      <ul>
+<li>\item Gathering, preparing, and cleaning data to enhance their quality and precision;
+    <li> Exploring and visualizing data to identify preliminary trends;
+    <li> Selecting relevant variables for clustering analysis;
+    <li> Evaluating and comparing different clustering techniques;
+    <li> Interpreting and communicating clustering results to stakeholders;
+      </ul>
      <p><strong>Research Student<span class="date" style=" color: inherit;">Jan 2023 - Jun 2023</span><br><a href="https://www.linkedin.com/company/lipim/about/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
 Master's thesis project: Analysis and comparison of deep learning recommender systems.
       <ul>
@@ -76,6 +85,8 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
      <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Python for Data Science, AI Development (<a href="https://www.coursera.org/account/accomplishments/certificate/2DGWV2FLUKNS">Certification</a>)<span class="date" style=" color: inherit;">Jul 2023</span><br><a href="https://www.coursera.org/learn/">
 </a></strong></p><p> </p>
 <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Introduction to Java (<a href="https://www.coursera.org/account/accomplishments/certificate/NXL4JQFNGH5P">Certification</a>)<span class="date" style=" color: inherit;">Jul 2023</span><br><a href="https://www.coursera.org/learn/">
+</a></strong></p><p> </p>
+<p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  SQL for Data Science (<a href="https://www.coursera.org/account/accomplishments/verify/75ACJLHTY3EA">Certification</a>)<span class="date" style=" color: inherit;">Jul 2023</span><br><a href="https://www.coursera.org/learn/">
 </a></strong></p><p> </p>
      <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Getting Started with Data Warehousing and BI Analytics (<a href="https://www.coursera.org/account/accomplishments/certificate/7DPL4KS55SQ9">Certification</a>)<span class="date" style=" color: inherit;">Jun 2023</span><br><a href="https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics/home/week/1">
 </a></strong></p><p> </p>
