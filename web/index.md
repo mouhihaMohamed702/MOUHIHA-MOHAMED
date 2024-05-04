@@ -16,7 +16,7 @@ title: About
      <p><img src="assets/images/photo.jpg" alt="Profile Picture" class="profilepic"></p>
       <h1>MOUHIHA Mohamed</h1>
       <h2>Morocco, Eljadida</h2>
-      <h3>Data Engineer | Data Analyst  | Data Scientist | Full-stack developer @Angular, @Java & @Python<h3>
+      <h3>| Data Scientist | Ai Engineer   <h3>
       <div class="socials">
        <a href="https://www.linkedin.com/in/mouhiha-mohamed-a0657b1a3/" class="ln" style=" color: inherit;" title="Linked In - MOUHIHA Mohamed"><i class="fab fa-linkedin"></i></a>
        <a href="https://github.com/mouhihaMohamed702" class="git" style=" color: inherit;" title="Github - MOUHIHA Mohamed"><i class="fab fa-github"></i></a>
