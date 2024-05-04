@@ -15,7 +15,7 @@ title: About
      <center>
      <p><img src="assets/images/photo.jpg" alt="Profile Picture" class="profilepic"></p>
       <h1>MOUHIHA Mohamed</h1>
-      <h2>Morocco, Eljadida</h2>
+      <h2>Casablanca, Morocco.</h2>
       <h3>Data Scientist | Ai Engineer </h3>
       <br>
       <div class="socials">
