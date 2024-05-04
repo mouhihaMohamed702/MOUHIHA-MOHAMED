@@ -18,7 +18,7 @@ title: About
       <h2>Morocco, Eljadida</h2>
       <h3>| Data Scientist | Ai Engineer   <h3>
       <div class="socials">
-       <a href="https://www.linkedin.com/in/mouhiha-mohamed-a0657b1a3/" class="ln" style=" color: inherit;" title="Linked In - MOUHIHA Mohamed"><i class="fab fa-linkedin"></i></a>
+       <a href="https://www.linkedin.com/in/mouhiha-mohamed/" class="ln" style=" color: inherit;" title="Linked In - MOUHIHA Mohamed"><i class="fab fa-linkedin"></i></a>
        <a href="https://github.com/mouhihaMohamed702" class="git" style=" color: inherit;" title="Github - MOUHIHA Mohamed"><i class="fab fa-github"></i></a>
        <a href="https://www.instagram.com/" class="insta" style=" color: inherit;" title="Instagram - MOUHIHA Mohamed"><i class="fa fa-instagram"></i></a>
        <a href="https://twitter.com" class="twitter" style=" color: inherit;" title="Twitter - @mouhiha mohamed"><i class="fa fa-twitter"></i></a>
@@ -82,11 +82,12 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       <p><strong>Bachelor Degree in Computer Science and Applied Mathematics option Computer Science<span class="date" style=" color: inherit;">Sep 2020 - Apr 2021</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/">Sidi Bennour Polydisciplinary Faculty </a></strong> Morocco, El Jadida</p>
       <p><strong>University Diploma of Technology (DUT) in Computer Engineering<span class="date" style=" color: inherit;">Sep 2018 - Apr 2020</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/ecole-superieure-de-technologie/">Sidi Bennour Higher School of Technology  </a></strong> Morocco, El Jadida</p>
      <h2><i class="fas fa-award"></i> Honors & Awards -</h2>
+     </a></strong></p><p> </p>
+<p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  SQL for Data Science (<a href="https://www.coursera.org/account/accomplishments/verify/75ACJLHTY3EA">Certification</a>)<span class="date" style=" color: inherit;">Mar 2024</span><br><a href="https://www.coursera.org/learn/">
      <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Python for Data Science, AI Development (<a href="https://www.coursera.org/account/accomplishments/certificate/2DGWV2FLUKNS">Certification</a>)<span class="date" style=" color: inherit;">Jul 2023</span><br><a href="https://www.coursera.org/learn/">
 </a></strong></p><p> </p>
 <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Introduction to Java (<a href="https://www.coursera.org/account/accomplishments/certificate/NXL4JQFNGH5P">Certification</a>)<span class="date" style=" color: inherit;">Jul 2023</span><br><a href="https://www.coursera.org/learn/">
-</a></strong></p><p> </p>
-<p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  SQL for Data Science (<a href="https://www.coursera.org/account/accomplishments/verify/75ACJLHTY3EA">Certification</a>)<span class="date" style=" color: inherit;">Jul 2023</span><br><a href="https://www.coursera.org/learn/">
+
 </a></strong></p><p> </p>
      <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Getting Started with Data Warehousing and BI Analytics (<a href="https://www.coursera.org/account/accomplishments/certificate/7DPL4KS55SQ9">Certification</a>)<span class="date" style=" color: inherit;">Jun 2023</span><br><a href="https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics/home/week/1">
 </a></strong></p><p> </p>
